@@ -6,7 +6,7 @@
 
 > Features:
 
-- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- `Up-to-date dependencies`: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Material Dashboard** (PRO Version) by **Creative-Tim**
 - SQLite database, Flask-SQLAlchemy ORM
